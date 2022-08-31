@@ -1,4 +1,4 @@
-DESKTOP APPLICATION ----- Hotel Management System 
+# DESKTOP APPLICATION ----- Hotel Management System 
 
 It is java based Desktop App .
 For creating GUI for Hotel Management Application , "SWING" and "AWT" package is used.
