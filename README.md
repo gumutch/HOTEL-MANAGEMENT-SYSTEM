@@ -30,10 +30,15 @@
     
     12. create table department( departmentName varchar(40), budget varchar(20));
     
-> insert into department values('Front Office', '200000');
-> insert into department values('House Keeping', '300000');
-> insert into department values('Food and Bevarrage', '1000000');
-> insert into department values('Maintanace', '500000');
-> insert into department values('Security', '600000');
-> select * from department;
+ > insert into department values('Front Office', '200000');
+ > 
+ > insert into department values('House Keeping', '300000');
+ > 
+ > insert into department values('Food and Bevarrage', '1000000');
+ > 
+ > insert into department values('Maintanace', '500000');
+ > 
+ > insert into department values('Security', '600000');
+ 
+ > select * from department;
             
