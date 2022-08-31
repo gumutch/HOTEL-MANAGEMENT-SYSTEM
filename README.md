@@ -4,6 +4,12 @@
 - For creating GUI for Hotel Management Application , "SWING" and "AWT" package is used.
 - For database handling , "Mysql" is used.
 
+## Technologies used:
+- Frontend: JAVA
+- Backend: MYSQL
+- Libraries: Swing, Awt
+
+## Installation:
 > For running this application in your Local machine you have to set your lacal environment as follow:-
 
     1. set root password of MySql = "1234";
